@@ -1,0 +1,17 @@
+type: plugin
+files:
+    src:
+        - '*.php'
+        - '!node_modules'
+        - '!vendor'
+    main: wp-dummy-plugin.php
+    assets:
+        - assets/*.png
+        - assets/*.svg
+gh:
+    repo: GedexTestOrg/wp-dummy-plugin
+    username: gedex
+wporg:
+    slug: wp-dummy-plugin
+    username: akeda
+    buildPath: build
