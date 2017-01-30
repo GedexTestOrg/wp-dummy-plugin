@@ -63,10 +63,6 @@ Answer to foo bar dilemma.
 
 ## Changelog ##
 
-### 1.0.4 ###
-* A change since 1.0.3.
-* Another change for 1.0.4.
-
 ### 1.0.3 ###
 * A change since 1.0.2.
 * Another change for 1.0.3.
