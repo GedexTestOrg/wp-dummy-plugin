@@ -4,6 +4,7 @@ files:
         - '**'
         - '!node_modules/**'
         - '!vendor/**'
+        - '!tests?'
     main: wp-dummy-plugin.php
     assets:
         - assets/*.png
