@@ -7,7 +7,7 @@ Here is a short description of the plugin.  This should be no more than 150 char
 **Tags:** [comments](https://wordpress.org/plugins/tags/comments), [spam](https://wordpress.org/plugins/tags/spam)<br>
 **Requires at least:** 4.6<br>
 **Tested up to:** 4.7<br>
-**Stable tag:** 4.3<br>
+**Stable tag:** 1.0.4<br>
 **License:** [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)<br>
 **Donate link:** http://example.com/<br>
 
@@ -62,6 +62,14 @@ Answer to foo bar dilemma.
 
 
 ## Changelog ##
+
+### 1.0.5 ###
+* A change since 1.0.4.
+* Another change for 1.0.5.
+
+### 1.0.4 ###
+* A change since 1.0.3.
+* Another change for 1.0.4.
 
 ### 1.0.3 ###
 * A change since 1.0.2.

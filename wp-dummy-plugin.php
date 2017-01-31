@@ -4,7 +4,7 @@
  * Plugin URI: http://example.com
  * Description: Dummy Plugin
  * Author: Someone
- * Version: 1.0.4
+ * Version: 1.0.5
  */
 
 // Should be catched by phpcs
