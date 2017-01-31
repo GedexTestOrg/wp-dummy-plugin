@@ -4,14 +4,16 @@ files:
         - '**'
         - '!node_modules/**'
         - '!vendor/**'
-        - '!tests?'
+        - '!tests/**'
+        - '!test/**'
+        - '!README.md'
     main: wp-dummy-plugin.php
     assets:
-        - assets/*.png
-        - assets/*.svg
+        - assets/wporg/*.png
+        - assets/wporg/*.svg
 gh:
     repo: GedexTestOrg/wp-dummy-plugin
-    username: gedex
+    username: GedexTestOrg
 wporg:
     slug: wp-dummy-plugin
     username: akeda
