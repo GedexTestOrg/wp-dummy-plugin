@@ -1,7 +1,6 @@
 type: plugin
 files:
     src:
-        - '*.php'
         - '!node_modules'
         - '!vendor'
     main: wp-dummy-plugin.php
