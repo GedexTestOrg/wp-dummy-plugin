@@ -6,6 +6,8 @@ files:
         - '!vendor/**'
         - '!tests/**'
         - '!test/**'
+        - '!build/**'
+        - '!tmp/**'
         - '!README.md'
     main: wp-dummy-plugin.php
     assets:
