@@ -18,5 +18,5 @@ gh:
     username: GedexTestOrg
 wporg:
     slug: wp-dummy-plugin
-    username: akeda
+    username: user
     buildPath: build
